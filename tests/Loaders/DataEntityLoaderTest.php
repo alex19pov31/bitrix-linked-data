@@ -124,7 +124,7 @@ class DataEntityLoaderTest extends TestCase
             static::$dataSet[0],
             static::$dataSet[1],
             static::$dataSet[2],
-            null,
+            null
         );
         $dataManager->shouldReceive('fetchAll')->andReturn(static::$dataSet);
 
