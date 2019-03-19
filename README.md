@@ -1,6 +1,14 @@
+[![Build Status](https://travis-ci.org/alex19pov31/bitrix-linked-data.svg?branch=master)](https://travis-ci.org/alex19pov31/bitrix-linked-data)
+
 # Bitrix linked data
 
 Хелпер для работы с часто используемыми данными - справочниками и т.д. Пердставляет из себя список именованных хранилищ данных. Предназначен для того чтобы избежать повторной выборки данных, вместо этого данные кешируется в статичном параметре класса хранилища и запрашиваются из него же.
+
+## Установка
+
+```bash
+composer require alex19pov31/linked-data
+```
 
 ## Работа с хранилищем
 
