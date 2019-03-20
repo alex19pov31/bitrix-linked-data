@@ -1,4 +1,4 @@
-[![Latest Stable Version](https://poser.pugx.org/alex19pov31/linked-data/v/stable)](https://packagist.org/packages/alex19pov31/linked-data) [![Build Status](https://travis-ci.org/alex19pov31/bitrix-linked-data.svg?branch=master)](https://travis-ci.org/alex19pov31/bitrix-linked-data) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/alex19pov31/bitrix-linked-data/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/alex19pov31/bitrix-linked-data/?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/alex19pov31/alex19pov31/bitrix-linked-data/v/stable)](https://packagist.org/packages/alex19pov31/alex19pov31/bitrix-linked-data) [![Build Status](https://travis-ci.org/alex19pov31/bitrix-linked-data.svg?branch=master)](https://travis-ci.org/alex19pov31/bitrix-linked-data) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/alex19pov31/bitrix-linked-data/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/alex19pov31/bitrix-linked-data/?branch=master)
 
 # Bitrix linked data
 
@@ -7,7 +7,7 @@
 ## Установка
 
 ```bash
-composer require alex19pov31/linked-data
+composer require alex19pov31/bitrix-linked-data
 ```
 
 ## Работа с хранилищем

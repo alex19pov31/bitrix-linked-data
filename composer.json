@@ -1,5 +1,5 @@
 {
-    "name": "alex19pov31/linked-data",
+    "name": "alex19pov31/bitrix-linked-data",
     "description": "Runtime storage data for bitrix",
     "type": "library",
     "license": "MIT",
@@ -19,7 +19,7 @@
     },
     "require": {
         "php": ">=7.0",
-        "alex19pov31/bitrix-helper": "^v0.1"
+        "alex19pov31/bitrix-helper": "^v0.2"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.5",
